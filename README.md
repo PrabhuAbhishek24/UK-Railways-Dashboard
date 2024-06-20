@@ -1,5 +1,7 @@
 ## Synopsis of the UK Railways Data Dashboard
 
+![UK RAILWAYS DASHBOARD](https://github.com/PrabhuAbhishek24/UK-Railways-Dashboard/assets/168215792/2a79bb1a-6fbe-4439-9c48-ad84c3d2295d)
+
 ### Overview
 The UK Railways Data Dashboard is a comprehensive visual representation of various metrics related to railway ticket sales, journey statuses, payment methods, and delays. The dashboard provides a user-friendly interface to analyze and understand key aspects of railway operations and customer behavior over time.
 
